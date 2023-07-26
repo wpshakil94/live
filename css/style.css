@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #edecec;
+}
+/*================================
+			/*common*/
+/*==================================*/
+img{
+	max-width: 100%;
+}
+img:hover{
+	padding: 20px;
+	transition: .5s;
+}
+.mr{
+  float: right;
+}
+.ml{
+  margin-left: 150px;
+   /* float: left;
+    float: right;*/
+}
+
+.cn{
+      text-align: center;
+}
+.bbc{
+  border-bottom: 2px solid red;
+}
+.bdr{
+  border-radius: 20px;
+}
+/*================================*/
+			/*common*/
+/*==================================*/
+
+
+
+/*==============================*/
+			/*menu-css*/
+/*==============================*/
+.col-3 h2{
+color: white;
+margin-top: 10px;
+font-size: 42px;
+}
+.col-3 form{
+	margin-top: 17px;	
+}
+.col-3 form input{
+	border: 2px solid red;
+	border: none;
+}
+.col-6>ul{
+	display: inline;
+}
+.col-6>ul li{
+	float: right;
+    padding: 15px;
+    font-size: 18px;
+
+    color: white;
+}
+.col-6>ul li a{
+	transition: 0.5s;
+	background-color: #1a0404;
+    padding: 9px 14px;
+    border-radius: 36px;
+}
+.col-6>ul li a:hover{
+	background-color: white;
+	color: black;
+    padding: 9px 20px;
+    border-radius: 5px 20px 5px 20px;
+}
+/*==============================*/
+			/*menu-css*/
+/*==============================*/
+
+
+/*==============================*/
+			/*contect-css*/
+/*==============================*/
+.conten-section{
+margin-top: 65px;
+
+}
+.conten-section .col-6{
+	background-color: #FFFEFF;
+	padding-bottom: 23px;
+}
+.conten-section .col-6 .hr{
+background-color: #262526;
+}
+.conten-section .col-6 i{
+font-size: 25px;
+background-color: white ;
+color: #252425;
+
+}
+.conten-section .col-6 .book-miting{
+background-color: #344D71;
+padding: 30px;
+}
+
+
+
+
+
+
+/*==============================*/
+			/*contect-css*/
+/*==============================*/
+
